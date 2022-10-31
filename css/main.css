@@ -4,6 +4,8 @@
   overflow: hidden;
   text-align: center;
   width:100%;
+  position: fixed;
+  top: 0;
 }
 
 /* Style the links inside the navigation bar */
@@ -196,3 +198,14 @@
   color: white;
 }
 
+h2 {
+  font-size: 40px;
+  text-align: center;
+  font-family: georgia;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
+  font-family: georgia;
+}
